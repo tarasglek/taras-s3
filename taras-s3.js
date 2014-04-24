@@ -148,5 +148,6 @@ module.exports = {
   S3GzipPutObject: S3GzipPutObject,
   S3MapBucket: S3MapBucket,
   S3Move: S3Move,
-  combineObjects: combineObjects
+  combineObjects: combineObjects,
+  chunkArray: chunkArray
 };
