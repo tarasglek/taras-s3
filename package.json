@@ -1,0 +1,11 @@
+{
+  "name": "taras-s3",
+  "description": "S3 Utility",
+  "version": "0.0.1",
+  "license": "BSD",
+  "main": "taras-s3.js",
+  "dependencies": {
+    "aws-sdk": "*",
+    "async": "*",
+  }
+}
