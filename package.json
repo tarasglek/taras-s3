@@ -6,6 +6,6 @@
   "main": "taras-s3.js",
   "dependencies": {
     "aws-sdk": "*",
-    "async": "*",
+    "async": "*"
   }
 }
